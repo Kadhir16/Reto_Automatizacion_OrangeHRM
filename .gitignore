@@ -1,0 +1,42 @@
+# Directorios de salida y dependencias locales
+/target/
+/out/
+/build/
+/bin/
+
+# Configuración de IDEs
+/.idea/
+/*.iml
+/.vscode/
+/.classpath
+/.project
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos generados
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Configuración de Maven
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Archivos temporales del sistema operativo
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# Archivos de configuración sensibles
+credentials.json
+*.properties
+*.key
